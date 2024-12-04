@@ -1,3 +1,1 @@
 #Configuracion inicial 
-
-.
